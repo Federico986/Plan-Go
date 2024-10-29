@@ -14,13 +14,32 @@ I principali competitor di questa applicazioni sono:
 ## Requisiti
 ### 1. Requisiti funzionali
 ![diagramma](https://github.com/user-attachments/assets/2b5347c2-55b7-4d9e-8dc9-cf182202b49c)
-I requisiti funzionali sono:
-- Creazione Itinerario Personalizzato: consente all'utente di creare itinerari su misura in base alle proprie preferenze.
-- Suggerimenti Automatici: deve suggerire le attività e destinazioni, con alternative meno affollate e percorsi ottimizzati.
-- Integrazione con Mappe: deve integrare una mappa per la visualizzazione degli itinerari e per facilitare il raggiungimento della destinazione scelta.
-- Ottimizzazione del Programma: deve pianificare le attività in base a un ordine logico per ottimizzare tempi e distanze tra attrazioni.
-- Registrazione Utente: deve memorizzare le preferenze dell'utente per offrire raccomandazioni personalizzate.
-- Feedback e Valutazione Itinerari: deve permettere agli utenti di valutare le attività proposte e modificare i suggerimenti in tempo reale.
+I requisiti funzionali sono: 
+### Utenti 
+#### 1. Accedi
+- Permette agli utenti di registrarsi e accedere all'applicazione per salvare preferenze e itinerari personalizzati.
+#### 2. Creazione Itinerario Personalizzato
+- Inserisci Preferenze: L'utente può indicare interessi specifici (es. relax, svago, avventura) e tipologie di attività preferite.
+- Ricevi Suggerimenti Automatici: L'applicazione suggerisce attività e destinazioni che soddisfano le preferenze inserite.
+- Sfoglia Percorsi Alternativi: Propone percorsi e attrazioni meno affollate per ottimizzare l’esperienza di viaggio.
+- Programma Ottimizzato: Pianifica le attività in un ordine logico per ridurre i tempi di spostamento tra destinazioni.
+#### 3. Visualizza Mappa Itinerario
+- Mostra Mappa dell'Itinerario: Rappresenta l'itinerario completo con tutti i punti d'interesse.
+- Naviga verso la Destinazione: Fornisce indicazioni stradali per raggiungere le destinazioni scelte.
+#### 4. Dai Feedback
+- Valuta Attività: Permette di assegnare un punteggio o una recensione per ogni attività svolta.
+- Modifica Raccomandazioni: Il sistema aggiorna i suggerimenti in tempo reale in base al feedback ricevuto, migliorando l’accuratezza delle raccomandazioni future.
+#### 5. Salva Preferenze
+- Consente di memorizzare le preferenze personali degli utenti per suggerimenti personalizzati nelle sessioni future.
+### Gestione Servizi
+- Permette ai fornitori di servizi turistici di gestire le attrazioni inserite nel sistema.
+- Aggiungi Nuova Attrazione: Inserimento di nuove attrazioni con dettagli quali descrizione, orari e prezzi.
+- Aggiorna Dettagli Attrazioni: Modifica e aggiorna le informazioni di attrazioni già esistenti.
+- Visualizza Statistiche Utenti: Accesso a statistiche e feedback relativi all’interesse degli utenti verso le attrazioni.
+### Gestione Utenti
+- Visualizza Utenti: Consente di visualizzare l’elenco degli utenti registrati e le loro attività.
+- Modifica Autorizzazioni Utente: Gestisce le autorizzazioni degli utenti, consentendo l'accesso a funzionalità specifiche.
+- Gestisci Feedback: L’amministratore monitora il feedback degli utenti e può rispondere per migliorare l’esperienza di utilizzo.
 ### 2. Requisiti non funzionali 
 I requisiti non funzionali sono:
 - Performance: deve generare itinerari rapidamente, gestendo anche molte richieste simultanee.
