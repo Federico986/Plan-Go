@@ -13,7 +13,7 @@ I principali competitor di questa applicazioni sono:
 - PiratinViaggio
 ## Requisiti
 ### 1. Requisiti funzionali
-https://yuml.me/ba5f5785.png
+![diagramma](https://github.com/user-attachments/assets/2b5347c2-55b7-4d9e-8dc9-cf182202b49c)
 I requisiti funzionali sono:
 - Creazione Itinerario Personalizzato: consente all'utente di creare itinerari su misura in base alle proprie preferenze.
 - Suggerimenti Automatici: deve suggerire le attività e destinazioni, con alternative meno affollate e percorsi ottimizzati.
