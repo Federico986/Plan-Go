@@ -4,7 +4,7 @@ Plan&Go offre un’esperienza di viaggio su misura, creando itinerari personaliz
 ## TagLine
 Il tuo viaggio, il tuo stile: itinerari su misura per esplorare senza pensieri.
 ## Problema risolto
-Plan&Go risolve problemi di personalizzazione del viaggio creando itinerari su misura, pianificazione rapida riducendo il tempo di organizzazione, sovraffollamento suggerendo percorsi alternativi e bilanciamento delle attività combinando relax, svago e cultura in un unico itinerario.
+Plan&Go risolve problemi comuni nella pianificazione dei viaggi creando itinerari su misura basati sulle preferenze degli utenti, riducendo il tempo di organizzazione grazie a suggerimenti automatici, proponendo percorsi alternativi per evitare le zone più affollate e bilanciando attività di relax, svago e cultura in un unico itinerario ottimizzato.
 ## Competitor
 I principali competitor di questa applicazioni sono:
 - Tripadvisor
