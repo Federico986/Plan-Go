@@ -16,20 +16,20 @@ I principali competitor di questa applicazioni sono:
 ![diagramma](https://github.com/user-attachments/assets/2b5347c2-55b7-4d9e-8dc9-cf182202b49c)
 I requisiti funzionali sono: 
 ### Utenti 
-#### 1. Accedi
+#### Accedi
 - Permette agli utenti di registrarsi e accedere all'applicazione per salvare preferenze e itinerari personalizzati.
-#### 2. Creazione Itinerario Personalizzato
+#### Creazione Itinerario Personalizzato
 - Inserisci Preferenze: L'utente può indicare interessi specifici (es. relax, svago, avventura) e tipologie di attività preferite.
 - Ricevi Suggerimenti Automatici: L'applicazione suggerisce attività e destinazioni che soddisfano le preferenze inserite.
 - Sfoglia Percorsi Alternativi: Propone percorsi e attrazioni meno affollate per ottimizzare l’esperienza di viaggio.
 - Programma Ottimizzato: Pianifica le attività in un ordine logico per ridurre i tempi di spostamento tra destinazioni.
-#### 3. Visualizza Mappa Itinerario
+#### Visualizza Mappa Itinerario
 - Mostra Mappa dell'Itinerario: Rappresenta l'itinerario completo con tutti i punti d'interesse.
 - Naviga verso la Destinazione: Fornisce indicazioni stradali per raggiungere le destinazioni scelte.
-#### 4. Dai Feedback
+#### Dai Feedback
 - Valuta Attività: Permette di assegnare un punteggio o una recensione per ogni attività svolta.
 - Modifica Raccomandazioni: Il sistema aggiorna i suggerimenti in tempo reale in base al feedback ricevuto, migliorando l’accuratezza delle raccomandazioni future.
-#### 5. Salva Preferenze
+#### Salva Preferenze
 - Consente di memorizzare le preferenze personali degli utenti per suggerimenti personalizzati nelle sessioni future.
 ### Gestione Servizi
 - Permette ai fornitori di servizi turistici di gestire le attrazioni inserite nel sistema.
