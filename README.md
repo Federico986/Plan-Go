@@ -1,10 +1,10 @@
 # Plan&Go
 ## Descrizione
-Plan&Go offre un’esperienza di viaggio su misura, creando itinerari personalizzati per i viaggiatori che vogliono esplorare le destinazioni più visitate senza rinunciare alla personalizzazione. Grazie a un’interfaccia intuitiva e a un motore di raccomandazioni avanzato, l’app consente agli utenti di inserire le proprie preferenze e interessi come attività di svago, relax o avventura e ricevere in cambio pacchetti turistici perfettamente ottimizzati per i loro gusti.
+Plan&Go offre un’esperienza di viaggio su misura, creando una vacanza personalizzata per i viaggiatori che vogliono esplorare le destinazioni più visitate senza rinunciare alla personalizzazione. Grazie a un’interfaccia intuitiva e a un motore di raccomandazioni avanzato, l’app consente agli utenti di inserire le proprie preferenze e interessi come attività di svago, relax o avventura e ricevere in cambio pacchetti turistici perfettamente ottimizzati per i loro gusti ed esigenze. 
 ## TagLine
 Il tuo viaggio, il tuo stile: itinerari su misura per esplorare senza pensieri.
 ## Problema risolto
-Plan&Go semplifica la pianificazione di un viaggio personalizzato, permettendo agli utenti di creare pacchetti su misura con pochi passaggi, risparmiando tempo e fatica. Inserendo informazioni di base (data, destinazione, tipo di località, modalità di viaggio e tipo di vacanza), l’utente riceve proposte di pacchetti che includono trasporto e hotel. È possibile aggiungere esperienze specifiche per adattare il viaggio ai propri interessi. In questo modo, Plan&Go risolve il problema della complessità organizzativa offrendo soluzioni di viaggio rapide e personalizzate.
+Plan&Go semplifica la pianificazione di un viaggio personalizzato, permettendo agli utenti di creare pacchetti su misura in pochi passaggi, risparmiando tempo e fatica. Inserendo informazioni di base (data, destinazione, tipo di località, partecipanti al viaggio e aspettativa di vacanza), l’utente riceve proposte di pacchetti che includono trasporto e hotel. È possibile aggiungere esperienze specifiche per adattare il viaggio ai propri interessi. In questo modo, Plan&Go risolve il problema della complessità organizzativa offrendo soluzioni di viaggio rapide e personalizzate.
 ## Competitor
 I principali competitor di questa applicazioni sono:
 - Booking
