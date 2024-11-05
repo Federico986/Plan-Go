@@ -65,27 +65,27 @@ I principali competitor di questa applicazioni sono:
 #### Compatibilità
 - Multi-piattaforma con funzionamento su iOS, Android e browser vari
 ### 3. Requisiti di dominio
-#### 1. Regolamenti e normative sul turismo
+#### Regolamenti e normative sul turismo
 - Conformità GDPR per gestire i dati personali degli utenti in linea con le normative sulla privacy
 - Politiche di cancellazione che seguano le normative di rimborso e cancellazione dei fornitori
-#### 2. Integrazione con fornitori di servizi di viaggio
+#### Integrazione con fornitori di servizi di viaggio
 - Contratti chiari per stabilire accordi con compagnie aeree e hotel
 - Aggiornamenti in tempo reale per sincronizzare disponibilità e prezzi con i fornitori
 - Standard di qualità per mantenere livelli minimi di servizio
-#### 3. Personalizzazione dell’offerta
+#### Personalizzazione dell’offerta
 - Segmentazione per offrire pacchetti differenziati per target (famiglie, coppie)
 - Personalizzazione utilizzando dati utente per suggerire esperienze su misura
-#### 4. Sistemi di pagamento e prenotazione
+#### Sistemi di pagamento e prenotazione
 - Metodi di pagamento sicuri che supportino carte di credito, PayPal, ecc.
 - Integrazione piattaforme per interagire con sistemi di prenotazione consolidati
-#### 5. Gestione dei contenuti
+#### Gestione dei contenuti
 - Collaborazioni locali per lavorare con enti turistici per esperienze autentiche
 - Contenuti localizzati che offrano informazioni in diverse lingue, adattate culturalmente
 - Offerte promozionali per gestire sconti e offerte stagionali
-#### 6. Servizi di assistenza
+#### Servizi di assistenza
 - Assistenza clienti per fornire supporto rapido tramite chat o telefono
 - Gestione reclami con processi per risolvere disservizi e insoddisfazioni
-#### 7. Sicurezza
+#### Sicurezza
 - Crittografia delle transazioni per proteggere le informazioni sensibili
 - Monitoraggio frodi per implementare sistemi che rilevino attività sospette
 - Standard del settore per seguire le linee guida che garantiscano la protezione dei diritti dei viaggiatori
