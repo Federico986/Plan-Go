@@ -4,53 +4,89 @@ Plan&Go offre un’esperienza di viaggio su misura, creando itinerari personaliz
 ## TagLine
 Il tuo viaggio, il tuo stile: itinerari su misura per esplorare senza pensieri.
 ## Problema risolto
-Plan&Go risolve problemi comuni nella pianificazione dei viaggi creando itinerari su misura basati sulle preferenze degli utenti, riducendo il tempo di organizzazione grazie a suggerimenti automatici, proponendo percorsi alternativi per evitare le zone più affollate e bilanciando attività di relax, svago e cultura in un unico itinerario ottimizzato.
+Plan&Go semplifica la pianificazione di un viaggio personalizzato, permettendo agli utenti di creare pacchetti su misura con pochi passaggi, risparmiando tempo e fatica. Inserendo informazioni di base (data, destinazione, tipo di località, modalità di viaggio e tipo di vacanza), l’utente riceve proposte di pacchetti che includono trasporto e hotel. È possibile aggiungere esperienze specifiche per adattare il viaggio ai propri interessi. In questo modo, Plan&Go risolve il problema della complessità organizzativa offrendo soluzioni di viaggio rapide e personalizzate.
 ## Competitor
 I principali competitor di questa applicazioni sono:
-- Tripadvisor
 - Booking
 - Expedia
 - PiratinViaggio
 ## Requisiti
 ### 1. Requisiti funzionali
-![diagramma](https://github.com/user-attachments/assets/2b5347c2-55b7-4d9e-8dc9-cf182202b49c)
-I requisiti funzionali sono: 
-### Utenti 
-#### Accedi
-- Permette agli utenti di registrarsi e accedere all'applicazione per salvare preferenze e itinerari personalizzati.
-#### Creazione Itinerario Personalizzato
-- Inserisci Preferenze: L'utente può indicare interessi specifici (es. relax, svago, avventura) e tipologie di attività preferite.
-- Ricevi Suggerimenti Automatici: L'applicazione suggerisce attività e destinazioni che soddisfano le preferenze inserite.
-- Sfoglia Percorsi Alternativi: Propone percorsi e attrazioni meno affollate per ottimizzare l’esperienza di viaggio.
-- Programma Ottimizzato: Pianifica le attività in un ordine logico per ridurre i tempi di spostamento tra destinazioni.
-#### Visualizza Mappa Itinerario
-- Mostra Mappa dell'Itinerario: Rappresenta l'itinerario completo con tutti i punti d'interesse.
-- Naviga verso la Destinazione: Fornisce indicazioni stradali per raggiungere le destinazioni scelte.
-#### Dai Feedback
-- Valuta Attività: Permette di assegnare un punteggio o una recensione per ogni attività svolta.
-- Modifica Raccomandazioni: Il sistema aggiorna i suggerimenti in tempo reale in base al feedback ricevuto, migliorando l’accuratezza delle raccomandazioni future.
-#### Salva Preferenze
-- Consente di memorizzare le preferenze personali degli utenti per suggerimenti personalizzati nelle sessioni future.
-### Gestione Servizi
-- Permette ai fornitori di servizi turistici di gestire le attrazioni inserite nel sistema.
-- Aggiungi Nuova Attrazione: Inserimento di nuove attrazioni con dettagli quali descrizione, orari e prezzi.
-- Aggiorna Dettagli Attrazioni: Modifica e aggiorna le informazioni di attrazioni già esistenti.
-- Visualizza Statistiche Utenti: Accesso a statistiche e feedback relativi all’interesse degli utenti verso le attrazioni.
-### Gestione Utenti
-- Visualizza Utenti: Consente di visualizzare l’elenco degli utenti registrati e le loro attività.
-- Modifica Autorizzazioni Utente: Gestisce le autorizzazioni degli utenti, consentendo l'accesso a funzionalità specifiche.
-- Gestisci Feedback: L’amministratore monitora il feedback degli utenti e può rispondere per migliorare l’esperienza di utilizzo.
+
+#### Requisiti di configurazione iniziale e input utente
+- Selezione della data di viaggio.
+- Destinazione (Italia o estero).
+- Tipo di località preferita (Mare/Montagna/Città).
+- Modalità di viaggio (Soli, in coppia o in famiglia).
+- Tipo di vacanza desiderata (Relax, sportive, culturali o miste).
+#### Requisiti di suggerimento pacchetti e personalizzazione
+- Proposta di pacchetti con trasporto e alloggio in base ai criteri selezionati.
+- Filtri per affinare la ricerca per prezzo, durata, comfort e servizi.
+- Visualizzazione di attività compatibili con il tipo di vacanza selezionato.
+#### Requisiti di prenotazione e pagamento
+- Funzionalità per selezionare e confermare un pacchetto con dettagli di prenotazione.
+- Sezione di pagamento sicura con vari metodi di pagamento.
+- Possibilità di modificare la prenotazione in caso di cambiamenti.
+- Meccanismo per richiesta di rimborso e annullamento prenotazione.
+#### Requisiti di gestione e visualizzazione delle prenotazioni
+- Interfaccia per visualizzare l'itinerario completo con dettagli di trasporto e attività.
+- Opzione per sincronizzare l’itinerario con il calendario dell’utente.
+- Notifiche per eventi imminenti o cambiamenti.
+#### Funzionalità di supporto e assistenza
+- Accesso a un servizio di assistenza per risolvere problemi e rispondere a domande.
+- Sezione FAQ per le problematiche comuni.
+- Chatbot integrato per supportare l’utente nella pianificazione.
+#### Funzionalità di feedback e valutazione
+- Possibilità di lasciare recensioni e valutazioni su pacchetti e attività.
+- Sondaggi di soddisfazione al termine del viaggio per migliorare l’esperienza.
+#### Funzionalità di sicurezza e privacy
+- Login sicuro con autenticazione tramite email o numero di telefono e opzione a due fattori.
+- Controlli per gestire le preferenze di privacy.
+- Conformità alle normative GDPR per la protezione dei dati personali.
+#### Funzionalità avanzate
+- Suggerimenti di viaggio basati su preferenze passate e destinazioni popolari.
+- Raccolta punti o premi per utenti fidelizzati con sconti su pacchetti.
+- Integrazione con mappe e geolocalizzazione per facilitare l’orientamento.
 ### 2. Requisiti non funzionali 
-I requisiti non funzionali sono:
-- Performance: deve generare itinerari rapidamente, gestendo anche molte richieste simultanee.
-- Usabilità: deve essere intuitiva e facile da usare per gli utenti.
-- Affidabilità: deve garantire l’accessibilità continua dei servizi e mantenere i dati utente protetti.
-- Compatibilità: deve funzionare su iOS e Android e adattarsi a diversi dispositivi.
-- Manutenibilità: deve essere progettata per aggiornamenti semplici e correzioni di bug in modo veloce.
+#### Prestazioni
+- Tempo di risposta deve essere inferiore a 2 secondi per ogni schermata
+- Scalabilità per gestire un aumento di utenti senza degrado delle performance
+- Efficienza rete per ottimizzare l'uso dei dati durante la sincronizzazione
+#### Usabilità
+- Interfaccia intuitiva con navigazione semplice anche per utenti non esperti
+- Localizzazione disponibile in più lingue per utenti internazionali
+#### Affidabilità e disponibilità
+- Backup dati con salvataggi regolari e procedure di ripristino
+- Gestione errori con messaggi chiari e soluzioni per errori
+#### Sicurezza
+- Protezione dati tramite crittografia dei dati sensibili in transito e a riposo
+- Autenticazione a più fattori con supporto per 2FA per l'accesso sicuro
+- Prevenzione frodi con misure per rilevare attività sospette
+#### Compatibilità
+- Multi-piattaforma con funzionamento su iOS, Android e browser vari
 ### 3. Requisiti di dominio
-I requisiti di dominio sono:
-- Geolocalizzazione: deve utilizzare dati di geolocalizzazione per suggerire i percorsi in base alla posizione attuale o a una destinazione selezionata.
-- Dati su Attrazioni Turistiche: deve disporre di dati su orari, prezzi, recensioni e dettagli delle attrazioni.
-- Categorizzazione delle Attività: le attività devono essere categorizzate. 
-- Ottimizzazione dei Percorsi: l'applicazione deve conoscere le tempistiche di spostamento e ottimizzare i percorsi.
-- Interfaccia con Fornitori di Servizi Turistici: deve collegarsi con aziende locali per offrire opzioni di prenotazione direttamente nell'app.
+#### 1. Regolamenti e normative sul turismo
+- Conformità GDPR per gestire i dati personali degli utenti in linea con le normative sulla privacy
+- Politiche di cancellazione che seguano le normative di rimborso e cancellazione dei fornitori
+#### 2. Integrazione con fornitori di servizi di viaggio
+- Contratti chiari per stabilire accordi con compagnie aeree e hotel
+- Aggiornamenti in tempo reale per sincronizzare disponibilità e prezzi con i fornitori
+- Standard di qualità per mantenere livelli minimi di servizio
+#### 3. Personalizzazione dell’offerta
+- Segmentazione per offrire pacchetti differenziati per target (famiglie, coppie)
+- Personalizzazione utilizzando dati utente per suggerire esperienze su misura
+#### 4. Sistemi di pagamento e prenotazione
+- Metodi di pagamento sicuri che supportino carte di credito, PayPal, ecc.
+- Integrazione piattaforme per interagire con sistemi di prenotazione consolidati
+#### 5. Gestione dei contenuti
+- Collaborazioni locali per lavorare con enti turistici per esperienze autentiche
+- Contenuti localizzati che offrano informazioni in diverse lingue, adattate culturalmente
+- Offerte promozionali per gestire sconti e offerte stagionali
+#### 6. Servizi di assistenza
+- Assistenza clienti per fornire supporto rapido tramite chat o telefono
+- Gestione reclami con processi per risolvere disservizi e insoddisfazioni
+#### 7. Sicurezza
+- Crittografia delle transazioni per proteggere le informazioni sensibili
+- Monitoraggio frodi per implementare sistemi che rilevino attività sospette
+- Standard del settore per seguire le linee guida che garantiscano la protezione dei diritti dei viaggiatori
+
