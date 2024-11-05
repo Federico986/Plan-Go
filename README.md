@@ -40,6 +40,16 @@ I principali competitor di questa applicazioni sono:
 #### Funzionalità avanzate
 - Raccolta punti o premi per utenti fidelizzati con sconti su pacchetti.
 - Integrazione con mappe e geolocalizzazione per facilitare l’orientamento.
+#### Gestisci Attrazioni (per Fornitori di Servizi)
+- Consente ai fornitori di servizi turistici di gestire le attrazioni nel sistema.
+- Aggiungi Nuova Attrazione per inserire nuove attrazioni, specificando descrizione, orari e prezzi.
+- Aggiorna Dettagli Attrazioni per modificare e aggiornare le informazioni relative alle attrazioni.
+- Visualizza Statistiche Utenti per accedere a statistiche e feedback relativi all’interesse degli utenti verso le attrazioni.
+#### Gestisci Utenti (per Amministratore Sistema)
+- Permette all’amministratore di gestire gli utenti e migliorare l’esperienza d’uso dell’applicazione.
+- Visualizza Utenti per visualizzare l’elenco degli utenti registrati e la loro attività.
+- Modifica Autorizzazioni Utente per gestire le autorizzazioni e i permessi degli utenti, consentendo l'accesso a funzionalità specifiche.
+- Gestisci Feedback per monitorare il feedback degli utenti e permettere all’amministratore di rispondere per migliorare l’esperienza.
 ### 2. Requisiti non funzionali 
 #### Prestazioni
 - Tempo di risposta deve essere inferiore a 2 secondi per ogni schermata
