@@ -21,7 +21,7 @@ I principali competitor di questa applicazioni sono:
 - Tipo di vacanza desiderata (Relax, sportive, culturali o miste).
 #### Requisiti di suggerimento pacchetti e personalizzazione
 - Proposta di pacchetti con trasporto e alloggio in base ai criteri selezionati.
-- Filtri per affinare la ricerca per prezzo, durata, comfort e servizi.
+- Filtri per affinare la ricerca per durata, comfort e servizi.
 - Visualizzazione di attività compatibili con il tipo di vacanza selezionato.
 #### Requisiti di prenotazione e pagamento
 - Funzionalità per selezionare e confermare un pacchetto con dettagli di prenotazione.
