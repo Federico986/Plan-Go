@@ -12,7 +12,7 @@ I principali competitor di questa applicazioni sono:
 - PiratinViaggio
 ## Requisiti
 ### 1. Requisiti funzionali
-![DIAGRAMMA](https://github.com/user-attachments/assets/87b7e6a0-303b-42de-9e00-8b06628c86be)
+![DIAGRAMMA1](https://github.com/user-attachments/assets/8538488d-4b47-4656-aef2-79f7a6068061)
 #### Requisiti di configurazione iniziale e input utente
 - Selezione della data di viaggio.
 - Destinazione (Italia o estero).
