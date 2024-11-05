@@ -34,17 +34,10 @@ I principali competitor di questa applicazioni sono:
 - Notifiche per eventi imminenti o cambiamenti.
 #### Funzionalità di supporto e assistenza
 - Accesso a un servizio di assistenza per risolvere problemi e rispondere a domande.
-- Sezione FAQ per le problematiche comuni.
-- Chatbot integrato per supportare l’utente nella pianificazione.
 #### Funzionalità di feedback e valutazione
 - Possibilità di lasciare recensioni e valutazioni su pacchetti e attività.
 - Sondaggi di soddisfazione al termine del viaggio per migliorare l’esperienza.
-#### Funzionalità di sicurezza e privacy
-- Login sicuro con autenticazione tramite email o numero di telefono e opzione a due fattori.
-- Controlli per gestire le preferenze di privacy.
-- Conformità alle normative GDPR per la protezione dei dati personali.
 #### Funzionalità avanzate
-- Suggerimenti di viaggio basati su preferenze passate e destinazioni popolari.
 - Raccolta punti o premi per utenti fidelizzati con sconti su pacchetti.
 - Integrazione con mappe e geolocalizzazione per facilitare l’orientamento.
 ### 2. Requisiti non funzionali 
