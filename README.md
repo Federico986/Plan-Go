@@ -12,7 +12,7 @@ I principali competitor di questa applicazioni sono:
 - PiratinViaggio
 ## Requisiti
 ### 1. Requisiti funzionali
-
+![DIAGRAMMA](https://github.com/user-attachments/assets/87b7e6a0-303b-42de-9e00-8b06628c86be)
 #### Requisiti di configurazione iniziale e input utente
 - Selezione della data di viaggio.
 - Destinazione (Italia o estero).
@@ -40,7 +40,7 @@ I principali competitor di questa applicazioni sono:
 #### Funzionalità avanzate
 - Raccolta punti o premi per utenti fidelizzati con sconti su pacchetti.
 - Integrazione con mappe e geolocalizzazione per facilitare l’orientamento.
-#### Gestore Sistema 
+#### Amministratore di sistema
 - Gestisce le attrazioni nel sistema.
 - Inserisce nuove attrazioni, specificando descrizione, orari e prezzi.
 - Modifica e aggiorna i dettagli delle attrazioni.
