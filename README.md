@@ -1,6 +1,8 @@
 # Plan&Go
 ## Descrizione
 Plan&Go offre un’esperienza di viaggio su misura, creando una vacanza personalizzata per i viaggiatori che vogliono esplorare le destinazioni più visitate senza rinunciare alla personalizzazione. Grazie a un’interfaccia intuitiva e a un motore di raccomandazioni avanzato, l’app consente agli utenti di inserire le proprie preferenze e interessi come attività di svago, relax o avventura e ricevere in cambio pacchetti turistici perfettamente ottimizzati per i loro gusti ed esigenze. 
+## Target
+Viaggiatori che cercano assistenza nella pianificazione e che desiderano ottimizzare il tempo delle loro vacanze senza il pensiero di dover organizzare tutto nei minimi dettagli.
 ## TagLine
 Il tuo viaggio, il tuo stile: itinerari su misura per esplorare senza pensieri.
 ## Problema risolto
